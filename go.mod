@@ -2,7 +2,7 @@ module github.com/deciduosity/sumogrip
 
 go 1.14
 
-replace github.com/nutmegdevelopment/sumologic => github.com/tychoish/sumologic v0.0.0-20200521155714-c2840dd463d0
+replace github.com/nutmegdevelopment/sumologic => github.com/tychoish/sumologic v1.0.0
 
 require (
 	github.com/deciduosity/grip v0.0.0-20200523175710-fd8be2e0aab0
